@@ -1,32 +1,23 @@
-# ¡Hola, soy Javier!
+# ¡Hola, soy Javier! 👋
 
-Soy alumno de DAM de DIGITECH.
----
-
-## Comandos de Terminal aprendidos
-
-| Comando        | Descripción                                              |
-| -------------- | -------------------------------------------------------- |
-| `ls`           | Lista los archivos y directorios en el directorio actual. |
-| `cd`           | Cambia el directorio actual.                              |
-| `mkdir`        | Crea un nuevo directorio.                                 |
-| `rm`           | Elimina archivos o directorios.                           |
-| `cp`           | Copia archivos y directorios.                             |
+Soy desarrollador en formación interesado en la tecnología, el software y el aprendizaje continuo.
 
 ---
 
-## Comandos de Markdown útiles
+## 💻 Habilidades y Herramientas
 
-### Encabezados
+- **Lenguajes de programación:** Java, Python, JavaScript  
+- **Desarrollo web:** HTML, CSS, React  
+- **Control de versiones:** Git, GitHub  
+- **Comandos y Terminal:** `ls`, `cd`, `mkdir`, `rm`, `cp`  
+- **Documentación:** Markdown, README claros y organizados  
 
-````markdown
-# Título Principal
-## Subtítulo
-### Subtítulo secundario
-````
-### Listas
+---
 
-- Elemento de lista 1
-- Elemento de lista 2
-  - Subelemento 1
-  - Subelemento 2
+## 🌱 Actualmente aprendiendo
+
+- Desarrollo de páginas web 
+- Frameworks modernos de front-end  
+- Buenas prácticas de DevOps y CI/CD  
+
+---
